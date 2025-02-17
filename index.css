@@ -1,0 +1,21 @@
+.header-img {
+     background-image:  linear-gradient(
+        to right,
+        rgba(0.2, 0, 0, 0.6),
+        rgba(0.2, 0, 0, 0.7)
+      ), 
+      url("./images/home.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+   
+  }
+  .bgimg{
+    background-image:  linear-gradient(
+        to right,
+        rgba(0.2, 0, 0, 0.6),
+        rgba(0.2, 0, 0, 0.7)
+      ), 
+      url("./images/logo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+  }
